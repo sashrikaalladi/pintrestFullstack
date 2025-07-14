@@ -1,0 +1,10 @@
+.galleryitem {
+  display: flex;
+  position: relative;
+}
+
+.galleryitem img {
+  width: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+}
